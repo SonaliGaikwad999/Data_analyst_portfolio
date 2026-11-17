@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm Sonali 👋</h1>
-
 <p align="center">
   <b>Data Analyst</b><br>
   (moving from 5+ years in Software Testing)<br>
